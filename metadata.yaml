@@ -1,0 +1,30 @@
+_repo: Ten-years-digging-in-Egypt-1881-1891_52570
+_version: 0.0.1
+alternative_title: 10 years' digging in Egypt, 1881-1891
+creator:
+  author:
+    agent_name: Petrie, W. M. Flinders (William Matthew Flinders)
+    aliases:
+    - Petrie, Flinders
+    - Petrie, William Matthew Flinders, Sir
+    birthdate: 1853
+    deathdate: 1942
+    gutenberg_agent_id: '2454'
+    url: http://www.gutenberg.org/2009/agents/2454
+    wikipedia: http://en.wikipedia.org/wiki/William_Matthew_Flinders_Petrie
+description: ''
+gutenberg_issued: '2016-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52570'
+  lccn: a11000475
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Egypt -- Antiquities'
+- !lcc 'DT'
+- GITenberg
+title: Ten years' digging in Egypt, 1881-1891
+url: http://www.gutenberg.org/ebooks/52570
